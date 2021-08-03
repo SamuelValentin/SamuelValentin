@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 ##
  <div>
-  <img align="center" alt="hackerman" src="https://camo.githubusercontent.com/a07b03e54dbcb2b7f5d416a8dafbf8862afeef7f4ac87f3163d2e274178a598a/687474703a2f2f692e696d6775722e636f6d2f48667a663134542e676966">
+  <img alt="hackerman" src="https://camo.githubusercontent.com/a07b03e54dbcb2b7f5d416a8dafbf8862afeef7f4ac87f3163d2e274178a598a/687474703a2f2f692e696d6775722e636f6d2f48667a663134542e676966">
  </div>
  
 ##
