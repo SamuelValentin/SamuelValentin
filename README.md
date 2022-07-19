@@ -9,9 +9,10 @@
 <br>
 [![Gmail Badge](https://img.shields.io/badge/-samuellv89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuellv89@gmail.com)](mailto:samuellv89@gmail.com)
 
-
- BSI - UTFPR 🎓<br>
- Dev - Mobou 👨‍💻
+<ul>
+ <li>BSI - UTFPR 🎓</li>
+ <li>Dev - Mobou 👨‍💻</li>
+</ul>
 
  <div>
   <a href="https://github.com/SamuelValentin">
