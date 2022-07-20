@@ -1,19 +1,20 @@
 <!--
 **SamuelValentin/SamuelValentin** Salva meu mano
 -->
-# Bem-vindo meu Guerreirinho
+# Bem-vindo ao perfil do Samuel!
 ### Vamos Flamengo 🟥⬛🇧🇷
 
+## Sobre mim:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-valentin/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelvalentin_/)
 <br>
 [![Gmail Badge](https://img.shields.io/badge/-samuellv89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuellv89@gmail.com)](mailto:samuellv89@gmail.com)
-
 <ul>
  <li>BSI - UTFPR 🎓</li>
  <li>Dev - Mobou 👨‍💻</li>
 </ul>
 
+### Ferramentas usadas:
  <div>
   <a href="https://github.com/SamuelValentin">
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelValentin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
