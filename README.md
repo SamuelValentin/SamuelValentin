@@ -1,7 +1,7 @@
 <!--
 **SamuelValentin/SamuelValentin** Salva meu mano
 -->
-# Bem-vindo ao perfil do Samuel!
+# Bem-vindo ao meu perfil!
 ### Vamos Flamengo 🟥⬛🇧🇷
 
 ### Sobre mim:
